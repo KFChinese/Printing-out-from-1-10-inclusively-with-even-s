@@ -1,7 +1,7 @@
 # Printing out 1-10 inclusively with even numbers.
 Used with Python3
 
-Start at [8:10](https://www.youtube.com/watch?v=fBOgxIxv2ic?t=490) to see refrence.
+Start at [8:10](https://youtu.be/fBOgxIxv2ic?t=490) to see refrence.
 
 Source:
 
